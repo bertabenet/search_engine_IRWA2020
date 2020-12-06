@@ -84,7 +84,7 @@ class MyStreamListener(StreamListener):
 # retrieve original tweets from their ids
 def hydrate(ids, path, filename):
     """
-    Hydrate tweets in order to
+    Hydrate tweets in order to update the data
     """
     T = twarc.Twarc()
     last_t = 0
@@ -99,11 +99,6 @@ def hydrate(ids, path, filename):
             if(int(float(t)) % 10 == 0 and int(float(t)) != last_t):
                     print("Hydrated tweets:", len(hydrated_tweets))
                     last_t = int(float(t))
-
-        '''
-        with open(path + filename, 'a') as json_file:
-            json.dump(hydrated_tweets, json_file)
-        '''
         
         with jsonlines.open(path + filename, mode='w') as writer:
             for obj in hydrated_tweets:
@@ -390,11 +385,14 @@ def mean_w2v(text, w2v_model, tweet = False):
     # Get normalized text
     if tweet: n_text = get_normalized_tweet(text)
     else: n_text = normalize_text(text)
-        
+    
     # Compute W2V embedding for each term
     w2v_vectors = []
     for term in n_text:
         w2v_vectors.append(w2v_model.wv[term])
+    
+    if len(w2v_vectors) == 0:
+        return np.zeros(w2v_model.vector_size)
     
     # Compute mean vector
     final_vector = np.zeros(w2v_model.vector_size)
