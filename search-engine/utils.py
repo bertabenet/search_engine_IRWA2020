@@ -404,10 +404,11 @@ def mean_w2v(text, w2v_model, tweet = False):
 
 def personalized_rank(query, index, tf, idf, tweetsDict, data, lamb = 1/3):
     '''
-    the output is a dataframe for each ranked tweet with 3 columns:
+    the output is a dataframe for each ranked tweet with 4 columns:
     tf-idf (which is the value based on tf-idf score)
     partial (which is the value computed with the tweet's attributes such as favorite_count, retweeted and user's followers_count)
     personalized (which is the value that comes from the linear combination of the two scores before)
+    w2v (which is the value computed from a Word2Vec model)
     '''
     # GET TF-IDF SCORE
     ranked_docs, ranked_scores = search_tf_idf(query, index, tf, idf, tweetsDict)
