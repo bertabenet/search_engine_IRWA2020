@@ -56,9 +56,10 @@ keywords = [keyword.strip('"') for keyword in config["KEYWORDS"]["keywords_list"
 scraping_sample = args.scrapingsample
 if scraping_sample == None: scraping_sample = 200
 
-if mode == "scrape": start = time.time()
+if (mode == "scrape" or mode == "hydrate"): start = time.time()
 data = get_tweets(keywords, scraping_sample, mode = mode, data_directory = '../data/')
 if mode == "scrape": print(bcolors.GREEN + "Total time taken to scrape {} tweets was {} seconds".format(scraping_sample * 1000, round(time.time() - start, 4)) + bcolors.ENDC)
+if mode == "hydrate": print(bcolors.GREEN + "Total time taken to hydrate {} tweets was {} seconds".format(len(data), round(time.time() - start, 4)) + bcolors.ENDC)
 print("Total tweets in database: " + bcolors.BOLD + str(len(data)) + bcolors.ENDC)
 
 if args.sample != None and len(data) > args.sample:

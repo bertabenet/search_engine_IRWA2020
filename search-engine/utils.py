@@ -168,7 +168,7 @@ def get_tweets(keywords, sample_size, mode = "read", data_directory = '../data/'
         ids = [tweet["id_str"] for tweet in data]
     
         total_hydrated, data = hydrate(ids, data_directory, "final_data.json")
-        print(bcolors.GREEN + "Total tweets hydrated = " + str(total_hydrated) + bcolor.ENDC)
+        # print(bcolors.GREEN + "Total tweets hydrated = " + str(total_hydrated) + bcolor.ENDC)
 
         
     # READ
