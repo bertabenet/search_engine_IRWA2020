@@ -57,7 +57,7 @@ scraping_sample = args.scrapingsample
 if scraping_sample == None: scraping_sample = 200
 
 if mode == "scrape": start = time.time()
-data = get_tweets(keywords, scraping_sample, mode = mode, data_directory = 'data/')
+data = get_tweets(keywords, scraping_sample, mode = mode, data_directory = '../data/')
 if mode == "scrape": print(bcolors.GREEN + "Total time taken to scrape {} tweets was {} seconds".format(scraping_sample * 1000, round(time.time() - start, 4)) + bcolors.ENDC)
 print("Total tweets in database: " + bcolors.BOLD + str(len(data)) + bcolors.ENDC)
 
