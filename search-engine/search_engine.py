@@ -1,5 +1,6 @@
 from utils import *
 
+# Define input arguments
 parser = argparse.ArgumentParser()
 
 mode_help = "(string) You can input 3 different modes when acquiring the data:" + \
@@ -26,11 +27,12 @@ parser.add_argument("-sm", "--sample", help=sample_help, type=int)
 parser.add_argument("-ss", "--scrapingsample", help=scrapingsample_help, type=int)
 args = parser.parse_args()
     
+# Define configuration file
 config = configparser.ConfigParser()
 config.read("config.ini")
 credentials = config["CREDENTIALS"]
 
-## access token informations
+# Access token and consumer information
 access_token1 = credentials["access_token_key"]
 access_token_secret1 = credentials["access_token_secret"]
 
@@ -41,6 +43,7 @@ auth = OAuthHandler(consumer_key1, consumer_secret1)
 auth.set_access_token(access_token1, access_token_secret1)
 api = API(auth_handler=auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
+# Retrieve command line arguments
 mode = args.mode
 if (mode != "scrape" and mode != "hydrate" and mode != "read"):
     print(bcolors.CYAN + "The mode '" + str(mode) + "' is not an available option. The mode was switched to 'read'" + bcolors.ENDC)
@@ -52,15 +55,18 @@ if (score != "personalized" and score != "partial" and score != "tf-idf" and sco
     score = "personalized"
 
 keywords = [keyword.strip('"') for keyword in config["KEYWORDS"]["keywords_list"].strip('][').split(', ')]
-            
+   
+# Define scraping sample
 scraping_sample = args.scrapingsample
 if scraping_sample == None: scraping_sample = 200
 
+# Retrieve data
 if mode == "scrape": start = time.time()
 data = get_tweets(keywords, scraping_sample, mode = mode, data_directory = '../data/')
 if mode == "scrape": print(bcolors.GREEN + "Total time taken to scrape {} tweets was {} seconds".format(scraping_sample * 1000, round(time.time() - start, 4)) + bcolors.ENDC)
 print("Total tweets in database: " + bcolors.BOLD + str(len(data)) + bcolors.ENDC)
 
+# Create dictionary of tweets of {id: text} and the tweet index
 if args.sample != None and len(data) > args.sample:
     print("Working with a sample of " + bcolors.BOLD + str(args.sample) + bcolors.ENDC + " tweets\n")
     tweetsDict = create_tweets_dict(data[:args.sample])
@@ -70,8 +76,9 @@ else:
     tweetsDict = create_tweets_dict(data)
     index, tf, df, idf = create_index_tfidf(data, len(data))
 
-
+# Output of search engine
 while(True):
+    # Read query
     print(bcolors.UNDERLINE + "ENTER QUERY:" + bcolors.ENDC)
     query = input()
     if query == "--end":
@@ -82,7 +89,7 @@ while(True):
         print(bcolors.YELLOW + "Cannot search for an empty string\n" + bcolors.ENDC)
     
     else:
-        # obtain a dataframe with tweet_id as index and tf-if_score, partial_score and final_score (personalized)
+        # Obtain a dataframe with tweet_id as index and tf-if_score, partial_score and final_score (personalized)
         scores = personalized_rank(query, index, tf, idf, tweetsDict, data)
         if type(scores) == type(None):
             print(bcolors.YELLOW + "No results found, try again\n" + bcolors.ENDC)
