@@ -6,3 +6,6 @@ __pycache__/
 
 # Mac OS
 .DS_store
+
+# Other
+data/final_data.json
