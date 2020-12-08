@@ -389,7 +389,8 @@ def mean_w2v(text, w2v_model, tweet = False):
     # Compute W2V embedding for each term
     w2v_vectors = []
     for term in n_text:
-        w2v_vectors.append(w2v_model.wv[term])
+        try: w2v_vectors.append(w2v_model.wv[term])
+        except: pass
 
     if len(w2v_vectors) == 0:
         return np.zeros(w2v_model.vector_size)
