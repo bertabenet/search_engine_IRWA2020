@@ -1,21 +1,43 @@
-	tf-idf	personalized
-1335568936973250568	0.9591305979783504	0.9713236870789177
-1335568941108912130	0.9896589140344866	0.9896811927417807
-1335568947568123906	0.7743072636840613	0.7743406817450025
-1335568978224287744	0.7455600528711626	0.8828080291565923
-1335571392188846080	0.7786157116060115	0.7796071140805999
-1335571398920708099	0.5924193838886204	0.6270492643020867
-1335571401307254784	0.690295123423837	0.6941382004320729
-1335571401395367942	0.7423491557119102	0.7457689372815577
-1335571402829803529	0.7455600528711626	0.7456714464076332
-1335571404331376646	0.7163781041443037	0.8090686658414923
-1335571404851437570	0.6262497846250672	0.6420231093893045
-1335571415278514176	0.7455600528711626	0.8170190065170543
-1335571418336079874	0.7163781041443037	0.7263812437193639
-1335571419430875137	0.7455600528711626	0.7842470280874029
-1335571444076605441	0.690295123423837	0.7002982629988972
-1335571446849032193	0.5270828084205206	0.5274838251518148
-1335571456550432769	0.5774410385243919	0.6055790458368662
-1335571458974691333	0.4795652989891752	0.4912950383795297
-1335571462896242688	0.690295123423837	0.6921888135438373
-1335571471226331137	0.7455600528711626	0.7456825857612802
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335576417753559040	1.62498663132586	@LLinWood VOTE VOTE VOTE TRUMP SAID VOTE!! SO YOU BETTER VOTE. DO NOT LISTEN TO THIS DEMOCRAT	1335576417753559040	79.48979209410768	@LLinWood VOTE VOTE VOTE TRUMP SAID VOTE!! SO YOU BETTER VOTE. DO NOT LISTEN TO THIS DEMOCRAT
+1	1335574705483472896	1.0217937743350347	@ArtOfWarNews @POTUS @realDonaldTrump Absolutely.  If Trump says go vote then GO VOTE.  Lin Wood is new to the game and he has no idea what Trump is doing behinds scenes and has been doing behind the scenes for 4 years.   LISTEN TO TRUMP!	1335568936973250568	59.22752114615991	#FightForTrump  Yes all you republicans in Georgia remember DONT GO VOTE in the special senate election, since it’s ALL RIGGED ANYWAY as Trump said.. If your a true Trump patriot you will stay home and not vote🇺🇸🇺🇸😂😂
+2	1335571174445756419	1.0183724380491057	"RT @Wizard_Predicts: Trump says if you don't vote, the Radical Left wins. 
+
+""If you don't vote, the socialists and communists win."""	1335567822391533568	58.828263940801776	"RT @ArtValley818_: I hope all the RINOs realize if they don’t Fight For Trump now, we will vote them out come next election. 
+
+This is your…"
+3	1335568941108912130	0.9896589140344866	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.	1335568947568123906	56.32965632700714	@Perduesenate @realDonaldTrump @KLoeffler Just another reason not to vote for you.  Donald Trump is trying to distort our democracy to win an election he clearly lost.  Country over party is how you should align yourself not with Trump.
+4	1335559261192146944	0.976174922013507	@BorisEP @sydneyluv15 THERE IS NO WAY IN HELL AMERICA DID NOT VOTE TRUMP!!!!!	1335572597665370117	56.02728803703229	@montaga @GOP @realDonaldTrump Trump turned out 80 million people to vote against him.
+5	1335576368378228736	0.976174922013507	@Toneman807 Does that mean a rework of the Georgia vote will go for Trump?	1335571128882958336	55.60086364205555	"@realDonaldTrump All must go out and VOTE.
+Also, poll-watchers must be EXTRA  VIGILANT. 
+Victory to Trump!"
+6	1335576387248410631	0.976174922013507	RT @stillgray: Trump: ‘If you don’t vote, the socialists and the communists win’  https://t.co/42g81DU3VT	1335571446849032193	54.85755323709703	@Tilly4Rilly @realDonaldTrump It's a good thing that the fraud was far less than any other election, then. The rare case but only gets caught, but isn't enough to change the vote. Of you think Trump lost because of fraud, you're an idiot.
+7	1335568936973250568	0.9591305979783504	#FightForTrump  Yes all you republicans in Georgia remember DONT GO VOTE in the special senate election, since it’s ALL RIGGED ANYWAY as Trump said.. If your a true Trump patriot you will stay home and not vote🇺🇸🇺🇸😂😂	1335571174445756419	54.589190067139405	"RT @Wizard_Predicts: Trump says if you don't vote, the Radical Left wins. 
+
+""If you don't vote, the socialists and communists win."""
+8	1335572514362322945	0.9388533439885922	"@theangiestanton @9NEWSNANCY Subsequent to your posting President Trump requested us to vote. Hence, there is only one thing MAGA patriots need to do and that is:
+
+Cut the rhetoric and VOTE"	1335571402829803529	54.052385706171734	RT @stillgray: After today’s Trump rally any conservative telling people not to vote for Loeffler and Perdue in GA is most definitely not s…
+9	1335565357612982273	0.8607383637754017	Any vote not watched is invalid. Mob rule enabled cheating. That is against the law. Trump won. https://t.co/ZW86T2ab3A	1335568941108912130	53.963418190970565	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.
+10	1335572597665370117	0.8607383637754017	@montaga @GOP @realDonaldTrump Trump turned out 80 million people to vote against him.	1335567867824238593	53.71012274997536	Trump will continue his your vote doesn't count anymore for as long as he's making money. Republicans  would gladly destroy democracy to make a buck. It's who they are!
+11	1335571171794968578	0.8607383637754017	RT @estellelevenda1: @mog7546 Why would Georgians want to vote for them if Trump thinks nothing of them.	1335571418336079874	53.60908623799418	Donald Trump holds first rally since US election and repeats false claims that vote was 'rigged' https://t.co/E5LcvutB5d
+12	1335572539943358464	0.8607383637754017	RT @DenverBunny1: @realDonaldTrump @cotten711 I’ll vote for Trump and his loyal patriots any day.	1335574705483472896	53.267452995119314	@ArtOfWarNews @POTUS @realDonaldTrump Absolutely.  If Trump says go vote then GO VOTE.  Lin Wood is new to the game and he has no idea what Trump is doing behinds scenes and has been doing behind the scenes for 4 years.   LISTEN TO TRUMP!
+13	1335567822391533568	0.7786157116060115	"RT @ArtValley818_: I hope all the RINOs realize if they don’t Fight For Trump now, we will vote them out come next election. 
+
+This is your…"	1335559261192146944	53.073708947283166	@BorisEP @sydneyluv15 THERE IS NO WAY IN HELL AMERICA DID NOT VOTE TRUMP!!!!!
+14	1335565305456766984	0.7786157116060115	"RT @myjourneymyself: Do they deserve your vote? You decide!
+
+But President Trump DESERVES a Senate majority that will work with him, for hi…"	1335571471226331137	53.013013820269336	RT @TheLeoTerrell: More people of color voted for President Trump than any Republican Candidates. Democrats you have lost the minority vote…
+15	1335576417006981123	0.7786157116060115	"RT @myjourneymyself: Do they deserve your vote? You decide!
+
+But President Trump DESERVES a Senate majority that will work with him, for hi…"	1335565333084647426	53.013013820269336	RT @TheLeoTerrell: More people of color voted for President Trump than any Republican Candidates. Democrats you have lost the minority vote…
+16	1335571392188846080	0.7786157116060115	"@Ryanvanguard1 @NancyTh60737834 @MarkFinchem @dougducey Since you brought it up...
+Actually, if you were really paying attention, Trump was claiming voter fraud in 2016 as well.
+Trump lost the popular vote by 3 million votes. He tried to have over 3 mil Democratic votes thrown out just so he could say he won the EC and popular vote."	1335571419430875137	53.013013820269336	RT @TheLeoTerrell: More people of color voted for President Trump than any Republican Candidates. Democrats you have lost the minority vote…
+17	1335568947568123906	0.7743072636840613	@Perduesenate @realDonaldTrump @KLoeffler Just another reason not to vote for you.  Donald Trump is trying to distort our democracy to win an election he clearly lost.  Country over party is how you should align yourself not with Trump.	1335571162265309186	51.423448898253	"@GenFlynn @kelliwardaz @realDonaldTrump @POTUS We the People know President Trump won the legal vote on election day following the law. 
+ 
+ There must be a FULL FORENSIC ADUIT of all legal votes done for legitimacy!
+
+We Americas are keeping the faith and know the truth will prevail."
+18	1335572531894513667	0.7455600528711626	RT @funder: Trump just told the crowd to vote on June 5th. The election is on January 5th.	1335576387248410631	51.378246461233985	RT @stillgray: Trump: ‘If you don’t vote, the socialists and the communists win’  https://t.co/42g81DU3VT
+19	1335568978224287744	0.7455600528711626	RT @funder: Trump just told the crowd to vote on June 5th. The election is on January 5th.	1335571401307254784	50.6686258124074	RT @TheLeoTerrell: President Trump is telling Republicans in Georgia not to stay home but vote in January for Kelly and David. Thank you ag…

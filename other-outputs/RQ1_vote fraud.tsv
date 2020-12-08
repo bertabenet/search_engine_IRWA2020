@@ -1,21 +1,40 @@
-	tf-idf	personalized
-1335568941108912130	2.631891989792737	2.6319139197222765
-1335568955075928064	2.3874862554947276	2.3934511963294893
-1335568995668246538	2.083798003795798	2.083798003795798
-1335571392188846080	1.6837132586590304	1.6846891405235411
-1335571404306051082	1.6626454283265284	1.6627002531503774
-1335571404851437570	2.3158616678298856	2.3313880579438973
-1335571431531425792	1.7438199610133494	1.8546273096278652
-1335571446849032193	3.5683937675190034	3.5687885062507156
-1335571456550432769	2.1353677069144843	2.1630652079229544
-1335571477463175171	2.3158616678298856	2.3229998598950137
-1335571481158356994	3.609879218308028	3.8209579799342697
-1335572520502759424	3.376860559771743	3.3793496067744835
-1335572532863270912	2.3874862554947276	2.425337313880016
-1335572573208383489	2.5615444313044287	2.693705151674614
-1335572583882907649	2.0360482786859038	2.0360592436506737
-1335572586852474881	2.3874862554947276	2.4387036059343807
-1335567823402196992	4.5649231679909805	4.5649231679909805
-1335567839391080450	2.3158616678298856	2.3542061496298143
-1335576407813083137	2.2509220416804294	2.289947946200051
-1335574720415227905	2.2509220416804294	2.867103021630243
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335567823402196992	4.5649231679909805	@realDonaldTrump hey mister P. werent you whining about mail in voting fraud in georgia that it is all corrupt? fraud illegal?.... why your hypcritic backpedal telling republicans to vote by mail? or you just lied about voter fraud heh??	1335571446849032193	57.598421594139126	@Tilly4Rilly @realDonaldTrump It's a good thing that the fraud was far less than any other election, then. The rare case but only gets caught, but isn't enough to change the vote. Of you think Trump lost because of fraud, you're an idiot.
+1	1335571481158356994	3.609879218308028	CNN reports Smartmatic VOTE FRAUD https://t.co/seOlE3kJKa via @YouTube	1335571481158356994	55.385403486004066	CNN reports Smartmatic VOTE FRAUD https://t.co/seOlE3kJKa via @YouTube
+2	1335571446849032193	3.5683937675190034	@Tilly4Rilly @realDonaldTrump It's a good thing that the fraud was far less than any other election, then. The rare case but only gets caught, but isn't enough to change the vote. Of you think Trump lost because of fraud, you're an idiot.	1335565389368078336	53.93833736731791	Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg
+3	1335572520502759424	3.376860559771743	RT @FrancesBreedlo5: CNN reports Smartmatic VOTE FRAUD https://t.co/UtGjpaT3xP via @YouTube	1335568941108912130	53.663027925663094	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.
+4	1335565313765675010	3.0910926903349334	"The question remains are all these confirmed dead ppl that voted 1 off voter fraud or is it a systematic election fraud scheme? Maybe involving Rock the Vote &amp; Zuckerberg’s CFT&amp;I?
+
+Inside The Numbers: Election Integrity in Michigan and Georgia https://t.co/hk3nnup73I via @YouTube"	1335563678645686272	53.556639073285055	RT @johnflipside: An admission of election fraud by Ruby Freeman, DemocRAT vote counter who said, “I know for a fact that Georgia voted for…
+5	1335571140740321281	3.0196926159497313	RT @FaeRae11: I guess they forgot about this. 🤔CNN reports Smartmatic VOTE FRAUD https://t.co/vh42en6wfI via @YouTube	1335565321411960832	52.21406516321707	@realDonaldTrump We all know that mail in votes are illegal and is fraud. Dont even vote at all because the election is rigged anyway..... Isnt that the narrative Teump has been telling you for over a month now, and now he is telling you to so it?
+6	1335565389368078336	2.649154749096949	Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg	1335572583882907649	50.859022303288995	@realDonaldTrump First, no democrat fraud. There are almost 9,000,000 NEVER tRUMPERS in this country. That’s where this number comes from. Second, why should reps in Georgia vote if elections are so rigged?  You idiots make no sense!!!  LOSER!!!
+7	1335568941108912130	2.631891989792737	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.	1335574720415227905	50.830842974818076	"President Trump rallied supporters in Valdosta Saturday night to vote for Senators Loeffler and Perdue, while pushing claims of fraud in Georgia's presidential election.  
+https://t.co/8oAvP6jfCA https://t.co/e0Nx8IiB3t"
+8	1335572573208383489	2.5615444313044287	RT @anonpatriotq: FAMILY FRAUD: Vote Counter Who Provided Suitcase Ballots Is DAUGHTER Of Vote Counter Identified As Ruby Freeman https://t…	1335574736756232193	50.10098566540881	RT @JacquelineWxxx: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/eoH0zMZ7z7
+9	1335574736756232193	2.5527003043749623	RT @JacquelineWxxx: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/eoH0zMZ7z7	1335571153256124417	50.071575651912646	RT @Jonteinspain: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg
+10	1335571153256124417	2.5527003043749623	RT @Jonteinspain: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg	1335572586852474881	50.0217279846977	The Express: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/U47dniMv7B via @pamelageller
+11	1335563678645686272	2.5527003043749623	RT @johnflipside: An admission of election fraud by Ruby Freeman, DemocRAT vote counter who said, “I know for a fact that Georgia voted for…	1335568955075928064	49.92078135563746	RT @RL9631: Former U.S. Representative Cynthia McKinney, a black Democrat from Georgia, said that without massive vote fraud for Biden, Pre…
+12	1335572532863270912	2.3874862554947276	RT @BKaysac: 1) Hundreds of affidavits testifying under oath of Massive Vote Ballot &amp; Digital Fraud across Multiple States—ballots illegall…	1335567823402196992	49.16606051064249	@realDonaldTrump hey mister P. werent you whining about mail in voting fraud in georgia that it is all corrupt? fraud illegal?.... why your hypcritic backpedal telling republicans to vote by mail? or you just lied about voter fraud heh??
+13	1335572586852474881	2.3874862554947276	The Express: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/U47dniMv7B via @pamelageller	1335572520502759424	48.57666716058775	RT @FrancesBreedlo5: CNN reports Smartmatic VOTE FRAUD https://t.co/UtGjpaT3xP via @YouTube
+14	1335568955075928064	2.3874862554947276	RT @RL9631: Former U.S. Representative Cynthia McKinney, a black Democrat from Georgia, said that without massive vote fraud for Biden, Pre…	1335571392188846080	47.704781803296434	"@Ryanvanguard1 @NancyTh60737834 @MarkFinchem @dougducey Since you brought it up...
+Actually, if you were really paying attention, Trump was claiming voter fraud in 2016 as well.
+Trump lost the popular vote by 3 million votes. He tried to have over 3 mil Democratic votes thrown out just so he could say he won the EC and popular vote."
+15	1335565377988866050	2.3874862554947276	"RT @DavidAFrench: I'm noticing a trend from a certain brand of right-wing pundit:
+
+1. Tweet out claim of vote fraud to ""seek answers.""
+
+2.…"	1335571121287143424	46.23313244015802	@EJFromTexas Those elections will be totally rigged by the deep state and weak Republican governor Kemp! Every Georgian Conservative knows: If you vote you are complicit of fraud!!
+16	1335571477463175171	2.3158616678298856	RT @janekin24: Finally MSM reveal the truth! No evidence eh @afneil ! There loads of it. Trump won. Biden vote fraud claims hit ONE MILLION…	1335565313765675010	45.538932060614954	"The question remains are all these confirmed dead ppl that voted 1 off voter fraud or is it a systematic election fraud scheme? Maybe involving Rock the Vote &amp; Zuckerberg’s CFT&amp;I?
+
+Inside The Numbers: Election Integrity in Michigan and Georgia https://t.co/hk3nnup73I via @YouTube"
+17	1335571121287143424	2.3158616678298856	@EJFromTexas Those elections will be totally rigged by the deep state and weak Republican governor Kemp! Every Georgian Conservative knows: If you vote you are complicit of fraud!!	1335567424947712007	45.49642261759062	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"
+18	1335571404851437570	2.3158616678298856	RT @janekin24: Finally MSM reveal the truth! No evidence eh @afneil ! There loads of it. Trump won. Biden vote fraud claims hit ONE MILLION…	1335567839391080450	45.49642261759062	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"
+19	1335559244133896192	2.3158616678298856	RT @janekin24: Finally MSM reveal the truth! No evidence eh @afneil ! There loads of it. Trump won. Biden vote fraud claims hit ONE MILLION…	1335559244133896192	45.3592296713698	RT @janekin24: Finally MSM reveal the truth! No evidence eh @afneil ! There loads of it. Trump won. Biden vote fraud claims hit ONE MILLION…

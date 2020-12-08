@@ -1,21 +1,47 @@
-	tf-idf	personalized
-1335568913564921856	1.8102796625822442	1.8127119927824664
-1335568920279883776	1.3218727626661066	1.321901982282153
-1335568927997505536	1.4201684909511156	1.420170675595306
-1335568929339580421	0.7546244973547024	0.7547184370548888
-1335568931214532609	1.3684608422178557	1.3693417999876272
-1335568941108912130	1.2066824560821123	1.2066830022431598
-1335568955281436678	1.1301160530409051	1.1301250646981904
-1335568964123062272	1.327901576594106	1.3279023958356775
-1335568967751008258	1.706352408197573	1.7063529543586204
-1335568969139433472	1.3218727626661066	1.3228088827016853
-1335568970846515200	1.3684608422178557	1.3685553280790896
-1335568985664802820	1.665430643300984	1.6654311894620315
-1335568988286365697	1.4201684909511156	1.4201796872525914
-1335568991629299714	0.9621505007311095	0.9708282022581448
-1335568995072667648	1.2414955265163863	1.2415086343815285
-1335571392327192576	1.4780196227021885	1.4780198957827122
-1335571403492499456	1.3684608422178557	1.3686924145020363
-1335571404331376646	1.4201684909511156	1.4224407939896366
-1335571404851437570	1.2414955265163863	1.2418822085380838
-1335571413844058113	1.8102796625822442	1.8103604944172882
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335563688015749120	2.2894713379716616	"RT @Palinspired: Biden was selected,
+
+Trump was elected"	1335571150869569536	76.54764448691499	Facts: More people attended the Georgia Trump rally last night than there were legal votes in Georgia for Biden!
+1	1335567424947712007	2.2491176314160284	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"	1335571142875246592	68.81738422718615	And we all know that Trump was cheated and we will not allow it to happen. Biden will not be our president https://t.co/Y9gM6bEaQm
+2	1335567839391080450	2.2491176314160284	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"	1335574711988838400	64.4685971866636	Donald Trump is hosting rallies after an election he supposedly lost and is still pulling in more people than Joe Biden ever will. https://t.co/3pFVaReW06
+3	1335574767349473280	2.0898081398927375	@BeholdIsrael Trump won.  Biden and Harris are fake. Period.	1335565333713874945	64.3556018905916	We patriots will never embrace biden or any democrat who cheated to get where they are at while trump worked his a** off
+4	1335571179524947974	1.9351971506111092	"RT @realTrumpForce: With Legal Votes Only:
+Trump 86M
+Biden  48M"	1335576435130576896	63.99812576652039	@realDonaldTrump Trump, can you shut up please? How can people elect you again after all the things you did? After all the lies, the waste of money, you were getting the world into a war, how can people elect you again? Biden is not the best president for sure, but he is way better than you
+5	1335571142875246592	1.9351971506111092	And we all know that Trump was cheated and we will not allow it to happen. Biden will not be our president https://t.co/Y9gM6bEaQm	1335574719941275649	62.47858517821703	RT @ChuckCallesto: BREAKING REPORT: Trump Team HAS DOMINION MACHINE FROM SMALL GA COUNTY – Shows Votes Flipped from Trump to Biden...
+6	1335567371075866625	1.9351971506111092	"RT @firemom81: TRUMP WON. 
+BIDEN CHEATED. 
+
+NOW, 
+
+LET’S MAGA AND KAG!🇺🇸"	1335565371651321856	62.460143005666495	RT @jessieopie: Joe Biden beat Donald Trump by 20,695 votes in Wisconsin. The election has been certified here.
+7	1335559242317750272	1.9351971506111092	RT @HotepJesus: Even the Chinese know the difference between Trump and Biden. 😂	1335565333516541954	62.460143005666495	RT @jessieopie: Joe Biden beat Donald Trump by 20,695 votes in Wisconsin. The election has been certified here.
+8	1335567851415990273	1.9351971506111092	"RT @realTrumpForce: With Legal Votes Only:
+Trump 86M
+Biden  48M"	1335571153927204864	61.75443967197627	HUGE: One Batch of 23,000 Ballots All For Biden Identified in Georgia That Were Fraudulent - More than Enough for Trump Win https://t.co/bJPtMFuxPR via @gatewaypundit
+9	1335572578266718208	1.9351971506111092	Trump Won. He will be inaugurated. Biden Obama will be indicted for treason. https://t.co/cHtsX5ieNp https://t.co/ppARJrlt7N	1335559242317750272	61.34480198925006	RT @HotepJesus: Even the Chinese know the difference between Trump and Biden. 😂
+10	1335576388368207873	1.818435128904916	Trump Snarks at WaPo Reporting Only 25 Republicans in Congress Say Biden Won: ‘Surprised There Are So Many’ https://t.co/su9ErjD5De He's his own 'DISASTER' gets all he deserves coming @ him. Let's Go SDNY! Welcome, President Biden to our WH. 1/21/21	1335559257664618497	60.35506013084705	LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election - 🍊🙈is “surprised” that GOP have the audacity to “believe” the person who won the election won the election? Huh?? WTF??🙄🧐🤒🤒Yikes https://t.co/8EmS62ecJ7
+11	1335571413844058113	1.8102796625822442	RT @SocialistBoomer: Trump admin.           Biden admin. https://t.co/nSjXZf5AVF	1335567835138060289	59.50415900372176	HUGE: One Batch of 23,000 Ballots All For Biden Identified in Georgia That Were Fraudulent - More than Enough for Trump Win https://t.co/EwWEHwePbI
+12	1335563683687256065	1.8102796625822442	Powell court filing claimed votes for Biden were 'flipped' to Trump https://t.co/YNCyj5G5rG	1335571149032308737	59.29478520856688	@PaprikaPink Pull GA? Don't give it to Biden? Don't count give PA, GA, NV...then Trump wins the election? Has the election process changed? #WTF
+13	1335568913564921856	1.8102796625822442	Biden and Trump vie to project authority, making for a tense transition https://t.co/t5SY9hNkUR	1335559294473953280	58.9249289244894	Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who https://t.co/GcpTpXresX
+14	1335572514307788809	1.7525968350995875	@DanStevens1103 Hey Dan Stevens no matter how much you bitch and complain Donald Trump has not won reelection and on January 20 Joe Biden will be inaugurated. Enough votes have been certified to put Joe Biden over 270 already.	1335565370845904900	58.753474234313714	"RT @paulsperry_: BREAKING: Email from election official confirms Dominion System flipped Trump votes to Biden in Georgia county:
+https://t.…"
+15	1335574759321563136	1.706352408197573	RT @dusha_al: I voted for Trump and didn't turn white. Biden lied again https://t.co/KGsNNJ3lgd	1335567880885297156	58.082873962166595	@realDonaldTrump @BrianKempGA Do the MATH Trump! This still leaves President ELECT Biden with 290 even if you cheat your way into winning Georgia.
+16	1335568967751008258	1.706352408197573	"@JennPellegrino Is this info on the germany server legit?
+Trump 410 Biden 128
+https://t.co/NCzzZJDoKm"	1335571187146100737	58.00788013261251	Joe Biden can not lead America therefore we nullify his election as president elect. Trump will still retain the seat And lead America well. https://t.co/vUwZgmHZ22
+17	1335565333713874945	1.706352408197573	We patriots will never embrace biden or any democrat who cheated to get where they are at while trump worked his a** off	1335576446849441799	57.348499454863834	"RT @MomJar1: DEMOCRATS want to believe Biden won.  Using numbers already proven incorrect
+
+But WE KNOW TRUMP won the election and we have p…"
+18	1335571143730802691	1.6928342976889168	@EdwardAshton30 @realDonaldTrump The world knows Biden won, we know Biden won, 39 lawsuits show NO election wrongdoing that could possible swing the election to Trump. Stop being duped by this man, open your eyes and see what’s really happening.	1335571435977388036	56.712612619143144	@christina_bobb @realDonaldTrump So using this logic, Trump was an illegitimate president. We must now go back and redo the 2016 election because there was obviously massive fraud that led to trump being elected. If you don’t accept this as fact, then you have no reason to deny Biden won the election.
+19	1335567433587888128	1.665430643300984	"Trump won in a landslide. Anyone who says any different is wholly ignorant or just stupid. There’s evidence of fraud in every swing state, irregularities, statistical impossibilities &amp; y’all wanna shout Biden won
+
+Biden got more votes than Obama “please, pull the other wan” 🙊🤦🏽‍♀️ https://t.co/3ePbzNWyya"	1335568941108912130	56.647898042538486	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.

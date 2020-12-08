@@ -1,20 +1,76 @@
-	tf-idf	personalized
-1335568920279920640	3.066365666063351	3.07536768013217
-1335571418336079874	2.9463451186905902	3.02482869765952
-1335571442474360833	1.9075832131104185	3.610974030598653
-1335571444076605441	2.839070116171575	2.9175536951405046
-1335571482169241602	3.066365666063351	3.0675018425963088
-1335572517902311424	3.066365666063351	3.0675018425963088
-1335572545911873536	2.264458469015263	2.264545867210106
-1335567836350132224	2.9463451186905902	2.9852373153956835
-1335576367446937601	2.374919857747715	2.3760560342806727
-1335574699904888833	2.6889767185196574	3.8814522553220714
-1335574741328007170	3.066365666063351	3.0675018425963088
-1335574746830938112	2.839070116171575	2.874990774252009
-1335559271782690816	2.1678047538743677	2.1753209986308577
-1335559295191150595	2.9463451186905902	3.3545820868018033
-1335559327160135680	2.044597820288171	2.0775469397439466
-1335571166422048769	1.8215507853476436	1.9942641847230327
-1335571186403651585	3.066365666063351	3.0675018425963088
-1335571199640752129	2.9463451186905902	2.9464325168854333
-1335563687747334153	2.839070116171575	2.8412550710426476
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335568920279920640	3.066365666063351	"RT @EricColumbus: Trump in Georgia: “At stake in this election is control of the U.S. Senate.” 
+
+So he concedes that the VP to break a 50-5…"	1335563687747334153	73.91595715568306	"RT @charliekirk11: This is who wins if Joe Biden takes this election out from underneath us all. 
+
+Keep the fight up, keep the pressure on…"
+1	1335574741328007170	3.066365666063351	@SenatorFischer When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?	1335574746830938112	73.91595715568306	"RT @charliekirk11: This is who wins if Joe Biden takes this election out from underneath us all. 
+
+Keep the fight up, keep the pressure on…"
+2	1335571186403651585	3.066365666063351	@SenJohnBarrasso When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?	1335567836350132224	73.91104340774713	RT @EdwardTHardy: The US President called the Governor of Georgia today &amp; asked him to overturn the result of the presidential election in…
+3	1335571482169241602	3.066365666063351	@MichaelBennet When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?	1335571199640752129	72.06215220630831	Donald Trump repeats unfounded claims of US election corruption as he rallies for Republican Senate candidates in Georgia https://t.co/VgOwmd8lSB
+4	1335572517902311424	3.066365666063351	@SenatorBraun When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?	1335571418336079874	69.1680821744348	Donald Trump holds first rally since US election and repeats false claims that vote was 'rigged' https://t.co/E5LcvutB5d
+5	1335571199640752129	2.9463451186905902	Donald Trump repeats unfounded claims of US election corruption as he rallies for Republican Senate candidates in Georgia https://t.co/VgOwmd8lSB	1335571166422048769	67.13800311095062	@natashasrussia That’s because the USA government is letting everyone die and get sick. Trump administration doesn’t care about us. China has lockdowns &amp; believes in science. Didn’t make a virus political. The USA has failed the American people. This is why Trump lost the election.
+6	1335559295191150595	2.9463451186905902	"RT @FXdestination: The Left, &amp; their globalist masters, decided that Trump cannot be allowed to win the US election - no matter what.
+
+So -…"	1335571444076605441	64.30413445447776	RT @SomewhereCarr: Donald Trump holds first rally since US election and repeats false claims that vote was 'rigged' https://t.co/E5LcvutB5d
+7	1335567836350132224	2.9463451186905902	RT @EdwardTHardy: The US President called the Governor of Georgia today &amp; asked him to overturn the result of the presidential election in…	1335559295191150595	61.8863592711057	"RT @FXdestination: The Left, &amp; their globalist masters, decided that Trump cannot be allowed to win the US election - no matter what.
+
+So -…"
+8	1335571418336079874	2.9463451186905902	Donald Trump holds first rally since US election and repeats false claims that vote was 'rigged' https://t.co/E5LcvutB5d	1335576367446937601	59.013580939504806	"@langen_thomas @ValorieHoward4 @murray_nyc @realDonaldTrump During the 2020 election, did Joe Biden give a proper speech in front of supporters at least once?
+Why should U.S. citizens support candidates who do not have the opportunity to meet?"
+9	1335574746830938112	2.839070116171575	"RT @charliekirk11: This is who wins if Joe Biden takes this election out from underneath us all. 
+
+Keep the fight up, keep the pressure on…"	1335571442474360833	57.61253276947736	"U.S. President #DonaldTrump campaigned in #Georgia on Saturday for two #Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat.
+
+https://t.co/dzQVQXJemG"
+10	1335563687747334153	2.839070116171575	"RT @charliekirk11: This is who wins if Joe Biden takes this election out from underneath us all. 
+
+Keep the fight up, keep the pressure on…"	1335559327160135680	57.175909460293276	"@JohnBre11293409 @BBCWorld I live in the world that recognises the racist,corrupt,child molesting,senile Biden (who has admitted on video to bribery &amp; corruption &amp; having the largest,most inclusive voter fraud organisation in US political history) has not legitimately won the election
+
+Trunalimunumaprzure!"
+11	1335571444076605441	2.839070116171575	RT @SomewhereCarr: Donald Trump holds first rally since US election and repeats false claims that vote was 'rigged' https://t.co/E5LcvutB5d	1335572517902311424	56.49069145269092	@SenatorBraun When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?
+12	1335574699904888833	2.6889767185196574	"@ernie_plumley @chinavirus6 👉This Election Will 
+Come Down To👈
+
+Will a Trump Win,
+require a 2nd 
+American 
+revolution?👈
+🇺🇲✝️🇺🇲.
+
+Fellow US Marine Brothers &amp; PATRIOT'S have seen enough evidence That Trump WON 👈
+the election.
+
+""KEEP YOUR 
+POWDER DRY""   
+
+PLEASE RETWEET  ... https://t.co/GHKO59HUJe"	1335574741328007170	56.280717378339205	@SenatorFischer When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?
+13	1335576367446937601	2.374919857747715	"@langen_thomas @ValorieHoward4 @murray_nyc @realDonaldTrump During the 2020 election, did Joe Biden give a proper speech in front of supporters at least once?
+Why should U.S. citizens support candidates who do not have the opportunity to meet?"	1335571186403651585	56.256504279332	@SenJohnBarrasso When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?
+14	1335572545911873536	2.264458469015263	@AOC Thanks for fighting for us!  We WERE the richest until Trump came into office and spent taxpayer money on golf trips and strippers. Oh and also trying to change election results like if we were in Russia.	1335571482169241602	56.23215304660631	@MichaelBennet When Trump tells you that ARITHMETIC IS FAKE MATH what will you do? How can you be a US Senator and  NOT publicly assert that Biden won the election?
+15	1335559271782690816	2.1678047538743677	Don’t give up #Georgia,These liberals are trying to camouflage as us to lower our fire that stands for freedom,peace and liberty.Go and vote.The entire country is watching so they can’t do anything stupid in this runoff election. https://t.co/IXeXKi7Iwc	1335559271782690816	55.477696355271114	Don’t give up #Georgia,These liberals are trying to camouflage as us to lower our fire that stands for freedom,peace and liberty.Go and vote.The entire country is watching so they can’t do anything stupid in this runoff election. https://t.co/IXeXKi7Iwc
+16	1335559327160135680	2.044597820288171	"@JohnBre11293409 @BBCWorld I live in the world that recognises the racist,corrupt,child molesting,senile Biden (who has admitted on video to bribery &amp; corruption &amp; having the largest,most inclusive voter fraud organisation in US political history) has not legitimately won the election
+
+Trunalimunumaprzure!"	1335568920279920640	55.408077909265764	"RT @EricColumbus: Trump in Georgia: “At stake in this election is control of the U.S. Senate.” 
+
+So he concedes that the VP to break a 50-5…"
+17	1335571442474360833	1.9075832131104185	"U.S. President #DonaldTrump campaigned in #Georgia on Saturday for two #Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat.
+
+https://t.co/dzQVQXJemG"	1335574699904888833	55.281861550654	"@ernie_plumley @chinavirus6 👉This Election Will 
+Come Down To👈
+
+Will a Trump Win,
+require a 2nd 
+American 
+revolution?👈
+🇺🇲✝️🇺🇲.
+
+Fellow US Marine Brothers &amp; PATRIOT'S have seen enough evidence That Trump WON 👈
+the election.
+
+""KEEP YOUR 
+POWDER DRY""   
+
+PLEASE RETWEET  ... https://t.co/GHKO59HUJe"
+18	1335571166422048769	1.8215507853476436	@natashasrussia That’s because the USA government is letting everyone die and get sick. Trump administration doesn’t care about us. China has lockdowns &amp; believes in science. Didn’t make a virus political. The USA has failed the American people. This is why Trump lost the election.	1335572545911873536	50.57746522429974	@AOC Thanks for fighting for us!  We WERE the richest until Trump came into office and spent taxpayer money on golf trips and strippers. Oh and also trying to change election results like if we were in Russia.

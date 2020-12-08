@@ -1,21 +1,55 @@
-	tf-idf	personalized
-1335568909517385728	2.18097081057853	2.1851679033315152
-1335568933584138242	1.5422579303376747	1.5428071366896494
-1335568941108912130	1.7409033344968567	1.7409148967358457
-1335568943877074949	2.18097081057853	2.1868617713433953
-1335568955075928064	1.4424410122873876	1.4455859412923795
-1335568989758631937	1.3235838728749068	2.149486166093932
-1335571404331376646	1.6005325472340852	1.648637242547573
-1335571404851437570	1.399167781918766	1.407353847122936
-1335571431531425792	1.8115598805197397	1.8581430522097555
-1335571477463175171	1.399167781918766	1.4029312907096663
-1335572525967953921	1.4897530774904135	1.490140412496543
-1335572586852474881	1.4424410122873876	1.4694446214460588
-1335572590606348288	1.6005325472340852	1.6017118956109573
-1335567824509575169	1.7912904353428043	1.7922847878958532
-1335567824706707458	1.6005325472340852	1.6019893893466917
-1335567839391080450	2.406789886818408	2.4270064616905707
-1335576424086986755	1.6005325472340852	1.6079728480234685
-1335576440620933121	1.6005325472340852	1.619506181414937
-1335574736756232193	1.5422579303376747	1.5452178635188434
-1335574750031208450	1.4897530774904135	1.4900594768236204
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335567424947712007	2.406789886818408	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"	1335567363568070663	58.931531507440695	I still have a hard time knowing that there are so many dumbasses who would vote for Biden. https://t.co/3um0D26dBY
+1	1335567839391080450	2.406789886818408	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"	1335576440620933121	55.842607624195175	RT @Toneman807: Why is it now so many Dems who voted Biden, would like to take their vote back? Why the sudden change of heart? Because for…
+2	1335568909517385728	2.18097081057853	"RT @ArtValley818_: List of the 25 RINOs who say Biden won. 
+
+Vote them out!!! https://t.co/oeATlPr23T"	1335565330622636032	55.59104818945287	Hard to believe that Biden could motivate his own family to vote for him! https://t.co/vCSnNazZCd
+3	1335568943877074949	2.18097081057853	"RT @ArtValley818_: List of the 25 RINOs who say Biden won. 
+
+Vote them out!!! https://t.co/oeATlPr23T"	1335568941108912130	52.59586749456582	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.
+4	1335565330622636032	2.18097081057853	Hard to believe that Biden could motivate his own family to vote for him! https://t.co/vCSnNazZCd	1335568909517385728	51.95188439774484	"RT @ArtValley818_: List of the 25 RINOs who say Biden won. 
+
+Vote them out!!! https://t.co/oeATlPr23T"
+5	1335567363568070663	1.9230623575815449	I still have a hard time knowing that there are so many dumbasses who would vote for Biden. https://t.co/3um0D26dBY	1335568943877074949	51.95188439774484	"RT @ArtValley818_: List of the 25 RINOs who say Biden won. 
+
+Vote them out!!! https://t.co/oeATlPr23T"
+6	1335571431531425792	1.8115598805197397	"@Dknight10k Red States trashed Biden Votes and fear having to inform voter's who's votes were Trashed.
+Biden won MORE STATES THAN HE IS CREDITED FOR.
+IMPEACH GOVORNORS WHO WERE BEHING THE MASSIVE VOTE TRASHING FRAUD."	1335568989758631937	51.713585635404584	"The devil went down to Georgia 
+He was looking for a vote to steal
+He was in a bind
+Biden was way behind
+He found people willing to make a deal!
+
+#FightForTrump"
+7	1335567824509575169	1.7912904353428043	RT @chipfranklin: So Biden won the popular vote, the electoral vote, 4 recounts, 30 lawsuits, 7 judicial rulings, and Republicans still won…	1335565389368078336	51.01345672741979	Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg
+8	1335571130120359937	1.7912904353428043	RT @chipfranklin: So Biden won the popular vote, the electoral vote, 4 recounts, 30 lawsuits, 7 judicial rulings, and Republicans still won…	1335559261213126656	49.71256129112668	"@TrishaMomOf6 @AdamSchiff That’s...not how it works. For the last time: rallies don’t vote, people do.
+
+I didn’t attend a single Biden rally or event, yet I voted for him. And guess what? That was repeated time and time again across the country."
+9	1335563677886537728	1.7912904353428043	RT @chipfranklin: So Biden won the popular vote, the electoral vote, 4 recounts, 30 lawsuits, 7 judicial rulings, and Republicans still won…	1335567359936000001	48.826102841197596	@realTuckFrumper That is already what we call Trump. Biden legally won by over 7 million votes . Trump didn’t even win the popular vote in 2016 and never had above 50% approval rating so what makes anyone think he should have won. The polls were right.
+10	1335568941108912130	1.7409033344968567	@gatewaypundit @realDonaldTrump What dont some of you understand. This is no longer about Trump and Biden. This is about them stepping on your right to vote. And that vote be counted. If there is any fraud here then your rights are being taken away.	1335572525967953921	47.88895629216755	RT @elitistja: @JoyAnnReid Bottom line. If ya voted for Biden you need to get back out and vote early for Warnock and Ossoff. Our democracy…
+11	1335571404331376646	1.6005325472340852	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…	1335572586852474881	47.66832094240877	The Express: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/U47dniMv7B via @pamelageller
+12	1335572590606348288	1.6005325472340852	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…	1335574736756232193	47.37413109925359	RT @JacquelineWxxx: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/eoH0zMZ7z7
+13	1335567824706707458	1.6005325472340852	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…	1335571153256124417	47.36619228778381	RT @Jonteinspain: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg
+14	1335576424086986755	1.6005325472340852	"RT @KanekoaTheGreat: WISCONSIN🚨
+
+This is Claire Woodall-Vogg of Milwaukee's Election Commission loading the ""Biden Vote Spike"" onto a USB d…"	1335568955075928064	47.14941881626875	RT @RL9631: Former U.S. Representative Cynthia McKinney, a black Democrat from Georgia, said that without massive vote fraud for Biden, Pre…
+15	1335576440620933121	1.6005325472340852	RT @Toneman807: Why is it now so many Dems who voted Biden, would like to take their vote back? Why the sudden change of heart? Because for…	1335559337436049411	46.0480010398603	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…
+16	1335565389368078336	1.6005325472340852	Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/4uQ3mSFyyg	1335572590606348288	46.0480010398603	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…
+17	1335559263725494272	1.6005325472340852	"RT @KanekoaTheGreat: WISCONSIN🚨
+
+This is Claire Woodall-Vogg of Milwaukee's Election Commission loading the ""Biden Vote Spike"" onto a USB d…"	1335571404331376646	46.0480010398603	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…
+18	1335559337436049411	1.6005325472340852	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…	1335567824706707458	46.0480010398603	RT @davidmweissman: Joe Biden has more votes than Trump, the popular vote, and the electoral college. As a Veteran who takes my oath to def…
+19	1335574736756232193	1.5422579303376747	RT @JacquelineWxxx: Biden vote fraud claims hit ONE MILLION in five key states, independent investigator says https://t.co/eoH0zMZ7z7	1335567839391080450	44.243471425827764	"RT @SLT20201: WE CAUGHT THEM!
+
+Biden is screwed because they got sloppy.
+
+This illegal vote dump netted Biden 126K fraud votes and Trump on…"

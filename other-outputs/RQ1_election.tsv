@@ -1,21 +1,40 @@
-	tf-idf	personalized
-1335568910142369792	1.6446648908250001	1.644807966741514
-1335568911958413312	2.6851169411000004	2.685193854742982
-1335568911962492930	1.70680898135	1.7069305545276159
-1335568912528924672	1.5886736805500001	1.5886753346068385
-1335568913615134720	1.6446648908250001	1.6451466348791584
-1335568915955666944	1.70680898135	1.707134417032938
-1335568916765085697	1.70680898135	1.7069851384032801
-1335568917050269697	2.6851169411000004	2.6851905466293053
-1335568917062889472	1.6446648908250001	1.644716993615407
-1335568917109075969	1.4114707293500002	1.437661478842033
-1335568920242233345	1.4920734606250001	1.4922554068772145
-1335568920279920640	1.7763365281750003	1.7763791201385868
-1335568920732987392	1.70680898135	1.7068788652514186
-1335568921529880576	1.7763365281750003	1.7770204806776422
-1335568921836052487	1.7763365281750003	1.7764870473472867
-1335568923777908737	1.5382200625000002	1.538264308520425
-1335568924855988227	1.70680898135	1.707762131603077
-1335568924918894592	1.255802859025	1.2633787578383897
-1335568926046969857	1.7763365281750003	1.8216068232969556
-1335568928718934016	1.70680898135	1.7994423670085842
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335565356895756288	5.023826724125001	"The election was rigged!
+The election was stolen!
+You cannot trust the election process.
+
+Vote in the Senate runoff election."	1335571189121638403	112.27271436712999	RT @GrandpaSnarky: The only fraud in our 2020 election was Trump.
+1	1335568929520017408	3.891696758125	@dwayne2003 The election is not over. And there will be no next election of Trump doesn't win, WAKE UP.	1335571414942965760	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+2	1335559257664618497	3.619739451075001	LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election - 🍊🙈is “surprised” that GOP have the audacity to “believe” the person who won the election won the election? Huh?? WTF??🙄🧐🤒🤒Yikes https://t.co/8EmS62ecJ7	1335559314774380544	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+3	1335567898740461577	3.413002674675	Trump Proposes ‘Landmark Election Reform’ and Overhaul of Election Security Systems https://t.co/HAYtxzjwb8 via @epochtimes	1335576362661384194	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+4	1335574716443226113	3.2887144936250006	"RT @jeremynewberger: Imagine if Trump lost the election and the held a rally a month later where he claimed he won the election. 
+
+I realiz…"	1335559271052947456	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+5	1335576381271498753	3.1773473611000003	"RT @RepStevenSmith: FOUR DAYS after the election, Pennsylvania election losers STILL couldn’t figure out how to beat Trump’s landslide. 
+
+S…"	1335559260457947137	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+6	1335571164643667968	3.1773473611000003	"RT @DrNealHouston: President Trump Proposes ‘Landmark Election Reform’ and Overhaul of Election Security Systems
+
+via - @EpochTimes
+#FightL…"	1335567860752670720	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+7	1335572564534444036	3.1773473611000003	"RT @DrNealHouston: President Trump Proposes ‘Landmark Election Reform’ and Overhaul of Election Security Systems
+
+via - @EpochTimes
+#FightL…"	1335559272512409602	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+8	1335567404194131968	3.1773473611000003	"GREAT. Please do it for the sake of the world.
+
+Trump Proposes ‘Landmark Election Reform’ and Overhaul of Election Security Systems
+https://t.co/fm74JpG6om"	1335568993181110279	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+9	1335571436660985858	3.0764401250000004	Trump won this election. The Democrats STOLE it!!! https://t.co/TncN3PPVE6	1335559317924306949	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+10	1335559305483923456	3.0764401250000004	RT @kylegriffin1: Remember: Trump is lying about the election in the state where officials begged him to stop lying about the election beca…	1335571160403218437	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+11	1335571404322955264	3.0764401250000004	RT @kylegriffin1: Remember: Trump is lying about the election in the state where officials begged him to stop lying about the election beca…	1335567432023420928	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+12	1335565340747722752	2.984762209275	RT @EricaRN4USA: Trump Proposes ‘Landmark Election Reform’ and Overhaul of Election Security Systems #ElectionIntegrity  https://t.co/4XZHI…	1335571168187789313	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+13	1335568981223202817	2.90046774985	RT @jessiprincey: Trump Campaign has filed a lawsuit to throw out the Georgia election. The Campaign said “order a new election to be condu…	1335567897742217218	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+14	1335567431801188352	2.7515680478	It's just as bad to stall and bury the news after the election. https://t.co/7kbKrDvWPV	1335559313499283456	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+15	1335571189121638403	2.7515680478	RT @GrandpaSnarky: The only fraud in our 2020 election was Trump.	1335568971131707399	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+16	1335571472715304960	2.7515680478	"IF ITS A FRAUDULENT ELECTION, WE KNOW HOW IT TURNS OUT !
+WHY BOTHER https://t.co/W7Pj1eFH98"	1335568970842304512	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+17	1335567378701197315	2.7515680478	"@Breaking911 https://t.co/XIb0OvZ1dB
+Election Theft D5 PAIN"	1335567851768442880	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+18	1335571446823866369	2.6851169411000004	RT @ScottAdamsSays: None of the election fraud history matter. None of the current election fraud allegations matter. What matters is that…	1335576376179625984	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…
+19	1335567406404694019	2.6851169411000004	RT @ScottAdamsSays: None of the election fraud history matter. None of the current election fraud allegations matter. What matters is that…	1335572512831311872	101.63172373258416	RT @GenFlynn: .@Raiklin continues to do amazing analysis on the state of play in our election process. His chart is well worth studying.…

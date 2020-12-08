@@ -1,21 +1,131 @@
-	tf-idf	personalized
-1335568918707011585	3.8630256398493814	3.8722650349009613
-1335568937593999362	3.8630256398493814	3.942649694765436
-1335568970292858880	3.8630256398493814	3.864227512376416
-1335571438087122945	4.510852945060375	5.543712147980894
-1335571463764664322	3.8630256398493814	3.9207155211470512
-1335572548893995008	3.8630256398493814	5.147827371249569
-1335572561887961088	4.510852945060375	4.962456547093696
-1335572581739614212	3.8630256398493814	3.923795319497578
-1335567823402196992	2.6870619865102596	2.6870619865102596
-1335567848337498113	3.8630256398493814	3.9568468139910347
-1335576385109323776	3.8630256398493814	3.8749692480867894
-1335576428738392065	3.8630256398493814	3.8744434288562117
-1335574735124635648	3.8630256398493814	3.880678142590205
-1335559262911795200	2.6501551612791276	2.992012778187585
-1335559290527100934	3.9991741035311374	4.001352497486388
-1335567412683485187	3.8630256398493814	3.8674575447928223
-1335565351770353664	3.8630256398493814	3.865955204134029
-1335571133916176386	3.2645708544350702	3.2647210885009494
-1335571198277607428	3.390095617771463	3.5080293594867515
-1335563662233391104	3.8630256398493814	3.963682463988545
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335571438087122945	4.510852945060375	RT @ChrChristensen: Trump encouraging mail-in voting in Georgia. Because this had always been about flooding the public sphere with endless…	1335567823402196992	47.61037798634695	@realDonaldTrump hey mister P. werent you whining about mail in voting fraud in georgia that it is all corrupt? fraud illegal?.... why your hypcritic backpedal telling republicans to vote by mail? or you just lied about voter fraud heh??
+1	1335572561887961088	4.510852945060375	RT @ChrChristensen: Trump encouraging mail-in voting in Georgia. Because this had always been about flooding the public sphere with endless…	1335571198277607428	43.88857560312298	"Hi @Porsha4real Are you getting the word out in Georgia to #VOTE in the Senate runoff, on/or before Jan 5, 2021? 
+We all need @ossoff and @ReverendWarnock to win in Georgia! 
+https://t.co/dXX8HX6PgV is up, to help anyone get Absentee Ballots, Drop off &amp; Early Voting Locations.
+xo https://t.co/Qkz8ba0Xm4"
+2	1335559290527100934	3.9991741035311374	RT @Jessicam6946: Georgia remember if you vote for the Republican senators those damn voting machines will flip your vote to the democrats.	1335559290527100934	42.908125002738714	RT @Jessicam6946: Georgia remember if you vote for the Republican senators those damn voting machines will flip your vote to the democrats.
+3	1335568918707011585	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335568918707011585	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+4	1335568937593999362	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335568937593999362	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+5	1335563662233391104	3.8630256398493814	RT @marceelias: 🍑While Trump spews hatred and attacks voting in his Georgia rally, now is a perfect time to support electing two great Demo…	1335565351770353664	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+6	1335565351770353664	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335567412683485187	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+7	1335567412683485187	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335574735124635648	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+8	1335574735124635648	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335576428738392065	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+9	1335576428738392065	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335576385109323776	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+10	1335576385109323776	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335567848337498113	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+11	1335567848337498113	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335572581739614212	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+12	1335572581739614212	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335572548893995008	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+13	1335572548893995008	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335571463764664322	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+14	1335571463764664322	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335568970292858880	42.85336371751086	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"
+15	1335568970292858880	3.8630256398493814	"RT @ossoff: Georgia residents, write this down: December 14 is the first day of early voting.
+
+Find your polling place. Make a plan. 
+
+If y…"	1335563662233391104	41.42004535569161	RT @marceelias: 🍑While Trump spews hatred and attacks voting in his Georgia rally, now is a perfect time to support electing two great Demo…
+16	1335563682454056961	3.8630256398493814	"""Their call for a possible boycott of the election...""
+I think all MAGAts should boycott voting period!!!!
+BAHAHAHAHAHAHA
+All the focus is on Georgia — and who will vote and who will not https://t.co/ObgbrL0dSQ"	1335563682454056961	40.037890530940054	"""Their call for a possible boycott of the election...""
+I think all MAGAts should boycott voting period!!!!
+BAHAHAHAHAHAHA
+All the focus is on Georgia — and who will vote and who will not https://t.co/ObgbrL0dSQ"
+17	1335571198277607428	3.390095617771463	"Hi @Porsha4real Are you getting the word out in Georgia to #VOTE in the Senate runoff, on/or before Jan 5, 2021? 
+We all need @ossoff and @ReverendWarnock to win in Georgia! 
+https://t.co/dXX8HX6PgV is up, to help anyone get Absentee Ballots, Drop off &amp; Early Voting Locations.
+xo https://t.co/Qkz8ba0Xm4"	1335572561887961088	33.69963528140076	RT @ChrChristensen: Trump encouraging mail-in voting in Georgia. Because this had always been about flooding the public sphere with endless…
+18	1335571133916176386	3.2645708544350702	"ALERT: Georgia Secretary of State Enlists Investigations Bureau to
+Help With Voting Probes - Check The Left | #StopTheSteal #Election2020 - https://t.co/4lwU1ilTmq https://t.co/AJI0SoaShn"	1335571438087122945	33.69963528140076	RT @ChrChristensen: Trump encouraging mail-in voting in Georgia. Because this had always been about flooding the public sphere with endless…
+19	1335567823402196992	2.6870619865102596	@realDonaldTrump hey mister P. werent you whining about mail in voting fraud in georgia that it is all corrupt? fraud illegal?.... why your hypcritic backpedal telling republicans to vote by mail? or you just lied about voter fraud heh??	1335571133916176386	29.991521483064393	"ALERT: Georgia Secretary of State Enlists Investigations Bureau to
+Help With Voting Probes - Check The Left | #StopTheSteal #Election2020 - https://t.co/4lwU1ilTmq https://t.co/AJI0SoaShn"

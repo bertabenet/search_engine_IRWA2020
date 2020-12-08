@@ -1,21 +1,29 @@
-	tf-idf	personalized
-1335568936939753473	5.232489170593022	5.232878582885905
-1335568954396471296	5.027684433399737	5.035871826857614
-1335568971047776256	7.012362311360525	7.016509552279735
-1335568993424465920	6.796725074731092	6.869389408583158
-1335571402385104896	5.027684433399737	5.034567295676454
-1335571424443060225	6.850990323810746	6.902875018618712
-1335571430159822850	4.959142626594164	5.0846891498198135
-1335571438904938497	4.39514590879393	11.371798136251293
-1335571442474360833	4.727698773902805	4.9824740131312355
-1335571447851479041	6.802983955641658	6.807267490863376
-1335571450611298305	6.850990323810746	6.852236443147973
-1335571454956630016	5.464480377325237	5.464898995540087
-1335572519429017601	5.464480377325237	5.504531431648307
-1335572533614141442	5.027684433399737	5.049228668503519
-1335572539238731780	5.027684433399737	5.073888201950368
-1335572546041892864	4.844628871837598	4.868577727849935
-1335572548130660353	7.012362311360525	7.016149345908818
-1335572560390590471	2.901702515455292	2.909188966785978
-1335572565964824576	5.027684433399737	5.043660072715284
-1335572579659075587	4.844628871837598	4.857557359961331
+	tf-idf tweet idx	tf-idf score	tf-idf texts	w2v tweet idx	w2v score	w2v texts
+0	1335567898367184898	10.464978341186043	RT @MollyJongFast: The Republican Party did this to themselves	1335567886891577344	77.56292576838865	Sums up the Republican party 2020 https://t.co/g9vxs9JGMB
+1	1335559319455150081	10.05355643549688	RT @Bud_Doggin: I didn't leave the Republican Party, the Republican Party left me https://t.co/3Dlv31c5xf	1335567898367184898	69.37143052291898	RT @MollyJongFast: The Republican Party did this to themselves
+2	1335567886891577344	9.062156512977177	Sums up the Republican party 2020 https://t.co/g9vxs9JGMB	1335574760286277632	65.53772270505594	RT @tweettruth2me: I’m not a Republican or a Democrat. I’m a party of one, and I stand for individual liberty for all.
+3	1335565339690557441	7.9177010694378716	@realTuckFrumper In what era would the Republican Party sit still and quiet while a president of their own party demands a published enemies list of individuals FROM WITHIN that party?	1335559319455150081	64.09425239950244	RT @Bud_Doggin: I didn't leave the Republican Party, the Republican Party left me https://t.co/3Dlv31c5xf
+4	1335576444844564481	7.398344577194567	So true, the republican party leadership has felled America. https://t.co/TBXh4SC7jR	1335576444844564481	62.53635509872352	So true, the republican party leadership has felled America. https://t.co/TBXh4SC7jR
+5	1335576407083245568	7.012362311360525	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…	1335565300113281027	61.627538507018734	@DavidThomsonOne @BernardKerik @IsraelNewsLinks @JoeBiden @realDonaldTrump Yourwhite Republican Party is trying to overturn an election they lost in landslide if it so much fraud why did all republicans that won Excepted the results
+6	1335565335529984001	7.012362311360525	RT @lanacle: @catturd2 Trump is up against the FBI, CIA, DOJ, the Republican party, the entire Democrat party, Facebook, YouTube, Twitter,…	1335572582159015936	61.21754815498364	Trump now wants to hold the Republican party hostage just like he held America hostage for the last 4 years. https://t.co/w2UgXv8kAX
+7	1335572548130660353	7.012362311360525	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…	1335576407083245568	60.70247052348391	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…
+8	1335565358925811717	7.012362311360525	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…	1335572548130660353	60.70247052348391	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…
+9	1335574686705602561	7.012362311360525	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…	1335559256049848328	60.70247052348391	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…
+10	1335559256049848328	7.012362311360525	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…	1335574686705602561	60.70247052348391	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…
+11	1335568971047776256	7.012362311360525	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…	1335565358925811717	60.70247052348391	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…
+12	1335571424443060225	6.850990323810746	"@GOPLeader RT if you agree; Idiots are ruining to Republican party. And the Republican party is ruining the country! 
+
+OH....and that @GOPLeader Kevin McCarthy is an asshat clown!
+
+#TruthMatters"	1335568971047776256	60.70247052348391	RT @BeholdIsrael: Trump is up against the FBI, CIA, half of the republican party the entire Democrat party, Facebook, Twitter, China, Iran,…
+13	1335571450611298305	6.850990323810746	"RT @WajahatAli: How do you deradicalize the Republican Party?
+
+Someone should write that piece."	1335576442999025664	60.039891287580055	RT @6000mDeep: @kelliwardaz I want to see the republican party saved, by cutting out any republican that won't stand now. It's either socia…
+14	1335571447851479041	6.802983955641658	RT @StarTribune: The Minnesota Republican Party faces a choice at the end of Trump's presidency: hold tight to the party line, or learn fro…	1335565335529984001	59.2086095979061	RT @lanacle: @catturd2 Trump is up against the FBI, CIA, DOJ, the Republican party, the entire Democrat party, Facebook, YouTube, Twitter,…
+15	1335576442999025664	6.796725074731092	RT @6000mDeep: @kelliwardaz I want to see the republican party saved, by cutting out any republican that won't stand now. It's either socia…	1335565322712133632	57.35957995225141	@JeanBstein @RealCandaceO @realDonaldTrump Actually, the republican party is exactly have they always been. Only thing, is trump made them look more crazy. They all are trump Republicans and will continue the foolishness, because that's what the republican base expects.
+16	1335568993424465920	6.796725074731092	RT @danhill2011: Reminder to spineless Republican politicians - without Donald Trump, the Republican party will be smaller than the Green P…	1335559320868515842	57.31475271627349	RT @business: President Donald Trump kept up attacks that Republican party leaders worry could backfire and end their control of the Senate…
+17	1335565301283479552	6.40875708597746	@JaxS820 @CFCJIMMY14 @realDonaldTrump My guy this is the Republican Party now a days https://t.co/WFf0pbRlTC	1335571438904938497	54.99429443556721	"When people say, ""Do you mean there isn't one somewhat worthwhile elected Republican in Michigan?""
+
+I say, ""Not since Amash left the party."" https://t.co/W4orlp8s9b"
+18	1335567365594099720	5.743785481434253	@kylegriffin1 Bc they've allowed Trump and his Hills Have Eyes villiage MAGAts to hi-jack the Republican party so much so that Republican leadership fear far-right challenges for their seats.	1335565301283479552	54.683364439714296	@JaxS820 @CFCJIMMY14 @realDonaldTrump My guy this is the Republican Party now a days https://t.co/WFf0pbRlTC
+19	1335574771304685568	5.730907778806767	Real Talk!  Establishment republicans and Wall Street types are killing the Republican party. https://t.co/B3UmxH2EM8	1335572595169763328	54.282259370859634	@BuckForColorado @realDonaldTrump Remember every person there was there for @realDonaldTrump The Republican Party is represented by elephants. My grandma always told me elephants never forget. Every single one of us will never forget who stood by @realDonaldTrump, who walked away, and who was silent. We see all.
