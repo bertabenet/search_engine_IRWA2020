@@ -22,10 +22,10 @@ __________________________
 
 ### <a name="data-info"></a> Data information
 
-
-Scraped tweets: 06/12/2020 (TOTAL: 200200)
-
-Hydrated tweets: 07/12/2020 (TOTAL: 194434)
+| Type | Date | Total tweets |
+| :---: | :---: | :---: |
+| Scraped tweets | 06/12/2020 | 200200 |
+| Hydrated tweets | 07/12/2020 | 194434 |
 
 __________________________
 
