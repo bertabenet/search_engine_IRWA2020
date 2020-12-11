@@ -10,11 +10,15 @@ __________________________
 
 ### Repository structure
 
-[Data](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/data) Contains the data file `final_data.json` with all the tweets in json format. For specific information go to [Data information](#data-info).
+[data/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/data) Contains the data file `final_data.json` with all the tweets in json format. For specific information go to [Data information](#data-info).
+
+[notebook/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/notebook) Contains all three `RQ*.ipynb` files with the answers for each section.
+
+[other-outputs/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/other-outputs)
 
 __________________________
 
-###<a name="data-info"></a> Data information
+### <a name="data-info"></a> Data information
 
 
 Scraped tweets: 06/12/2020 (TOTAL: 200200)
