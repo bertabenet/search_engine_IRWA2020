@@ -1,5 +1,15 @@
 # search_engine_IRWA2020
-### Authors:
+## Information Retrieval and Web Analytics
+**Authors**
+
+Benet i Cugat, Berta - 204721
+
+Budan, Maria Elena - 206330
+
+__________________________
+
+### Repository structure
+
 
 Scraped tweets: 06/12/2020 (TOTAL: 200200)
 
