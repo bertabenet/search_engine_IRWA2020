@@ -14,7 +14,9 @@ __________________________
 
 [notebook/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/notebook) Contains all three `RQ*.ipynb` files with the answers for each section.
 
-[other-outputs/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/other-outputs)
+[other-outputs/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/other-outputs) Contains output files from each of the python notebooks. `RQ1_*.tsv` are the ones for RQ1 and `RQ2_*.tsv` are the ones for RQ2.
+
+[search-engine/](https://github.com/bertabenet/search_engine_IRWA2020/tree/main/search-engine) Contains the following files: `config.ini` that incorporates the credentials for the tweepy API and the keywords to scrape tweets, `search_engine.py` the search engine itself and `utils.py` the python file containing all the functions used in the search engine.
 
 __________________________
 
