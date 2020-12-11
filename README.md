@@ -1,4 +1,4 @@
-# search_engine_IRWA2020
+# Search Engine IRWA2020
 ## Information Retrieval and Web Analytics
 **Authors**
 
