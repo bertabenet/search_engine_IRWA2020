@@ -29,5 +29,5 @@ __________________________
 
 __________________________
 
-### Requirements
-`tweepy`, `collections`, `chronometer`, `gensim.models`, `nltk`, `matplotlib`, `numpy`, `array`, `config`, `pandas`, `configparser`, `jsonlines`, `datetime`, `argparse`, `twarc`, `time`, `json`, `math`, `glob`, `csv`, `re` and `os`.
+### Requirements to run the search engine and the notebooks
+`argparse`, `array`, `chronometer`, `collections`, `config`, `configparser`, `copy`, `csv`, `datetime`, `gensim`, `glob`, `igraph`, `implicit`, `json`, `jsonlines`, `math`, `matplotlib`, `nltk`, `numpy`, `os`, `pandas`, `re`, `scipy`, `sklearn`, `sys`, `time`, `twarc` and `tweepy`.
